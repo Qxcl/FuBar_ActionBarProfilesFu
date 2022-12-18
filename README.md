@@ -1,4 +1,4 @@
-FuBar DecursiveFu
+ActionBarProfilesFu
 ---
 A FuBar plugin for ActionBarProfiles for WoW 1.12.
 
