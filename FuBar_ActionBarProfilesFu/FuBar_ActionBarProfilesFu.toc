@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: FuBar - |cffffffffActionBarProfiles|r|cff00ff00Fu|r
+## Notes: FuBar plugin for ActionBarProfiles
+## Author: Qxcl
+## Version: 1.0
+## SavedVariables: ActionBarProfilesFuDB
+## RequiredDeps: FuBar, ActionBarProfiles
+## OptionalDeps: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib
+
+## X-Embeds: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib
+## X-Credits: Qxcl, Zilver
+## X-License: GPL v3 or later.
+
+embeds.xml
+
+FuBar_ActionBarProfilesFu.lua
